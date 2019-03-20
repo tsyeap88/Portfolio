@@ -1,4 +1,8 @@
-# Final Project: Investigating the Case of Jack the Ripper with Data Mining
+# Final Project: 
+
+## Investigating the Case of Jack the Ripper with Data Mining
+
+## Team: Audrey Crockett, TS Yeap
 
 #### Can we identify who is Jack the Ripper using data mining?
 
