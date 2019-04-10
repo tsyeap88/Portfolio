@@ -24,4 +24,6 @@ Type 2 Questions:
 
 What causes airline delays?
 
-Can we predict the length of a delay? 
+Can we predict the length of a delay?
+
+This project is done in R.
