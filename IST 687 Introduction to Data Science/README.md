@@ -26,4 +26,16 @@ What causes airline delays?
 
 Can we predict the length of a delay?
 
-#### This project is done in R.
+## Descriptions of the files:
+Airline Delay Presentation: A deck prepared in PowerPoint
+
+IST 687_FinalProjectAnalysis.Rmd: The rmd file for the analysis
+
+Project Summary.docx: The project write-up
+
+VisualizingFlightData2.rmd: the rmd file that visualize the flight path on a map
+
+
+## Software required:
+R studio
+
