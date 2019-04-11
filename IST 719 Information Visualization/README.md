@@ -1,6 +1,6 @@
 # Description:
 
-Homework8 demonstrates the knowledge of using gganimate. (The html output is not allowed to be uploaded)
+Homework8 demonstrates the knowledge of using gganimate. (the rmd file and the html output file)
 
 Homework9 demonstrates the knowledge of using shiny.
 
