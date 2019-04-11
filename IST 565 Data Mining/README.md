@@ -9,3 +9,6 @@
 This project is done in R. We used tidyverse package to transform the letters collected from the Internet to a CSV file. 
 Then we explored the dataset using WordCloud. Lastly, we used K-means, desicion tree and SVM to cluster/classify the suspects at the time
 to identify who is the actual Jack the Ripper. 
+
+## Descriptions of the files:
+presentation: the files needed in flexdashboard presentation
