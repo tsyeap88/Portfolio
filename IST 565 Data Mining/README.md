@@ -12,8 +12,12 @@ to identify who is the actual Jack the Ripper.
 
 ## Descriptions of the files:
 presentation: the files needed in flexdashboard presentation
+
 R_code: The rmd files for wordcloud, Kmeans, desicion tree and SVM
+
 text_document: The original text files of Jack the Ripper and the 6 suspects
+
 dataset: the final data frame from the original text files
+
 
 Software required: R studio
