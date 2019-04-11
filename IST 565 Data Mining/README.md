@@ -15,9 +15,10 @@ presentation: the files needed in flexdashboard presentation
 
 R_code: The rmd files for wordcloud, Kmeans, desicion tree and SVM
 
-text_document: The original text files of Jack the Ripper and the 6 suspects
+Text_Document: The original text files of Jack the Ripper and the 6 suspects
 
 dataset: the final data frame from the original text files
 
 
-*Software required:* R studio
+## Software required:
+R studio
